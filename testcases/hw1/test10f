@@ -1,0 +1,6 @@
+if (true) {
+    print(42);
+} else {
+    v := read a;
+    while (v = 0) { print (32); }
+}

@@ -1,0 +1,12 @@
+if (v < 2) {
+  if (f > 42) {
+    while (c + d = 67) {
+      i = i + read c;
+    }
+  } 
+  else {
+    print(i);
+  };
+} else {
+  print(v);
+} ;
