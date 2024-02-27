@@ -1,0 +1,6 @@
+if (true) {
+  var := 42;
+  print(read var);
+} else {
+  print(32);
+} ;
